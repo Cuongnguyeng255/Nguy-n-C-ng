@@ -1,0 +1,192 @@
+[{
+  "header": "Trợ lý",
+  "title": "Đã nói Hello",
+  "titleUrl": "https://www.google.com/search?q\u003dHello",
+  "time": "2023-03-26T21:35:51.978Z",
+  "products": ["Trợ lý"],
+  "activityControls": ["Hoạt động trên web và ứng dụng"],
+  "locationInfos": [{
+    "name": "Tại vị trí khái quát này",
+    "url": "https://www.google.com/maps/@?api\u003d1\u0026map_action\u003dmap\u0026center\u003d10.401387,106.428809\u0026zoom\u003d12",
+    "source": "Dựa trên hoạt động trước đây của bạn"
+  }]
+},{
+  "header": "Trợ lý",
+  "title": "Đã nói vinahouse",
+  "titleUrl": "https://www.google.com/search?q\u003dvinahouse",
+  "subtitles": [{
+    "name": "Chắc chắn rồi, đang phát NONSTOP 2023 BAY PHÒNG BASS CỰC MẠNH, NHẠC REMIX HOT TIKTOK 2023, Việt Mix Dj Nonstop 2023 Vinahouse trên YouTube…"
+  }],
+  "time": "2023-03-25T05:33:02.941Z",
+  "audioFiles": ["2023-03-25_05_33_05_244_UTC.mp3"],
+  "products": ["Trợ lý"],
+  "activityControls": ["Hoạt động trên web và ứng dụng", "Bản ghi âm giọng nói và âm thanh của Hoạt động trên web và ứng dụng"]
+},{
+  "header": "Trợ lý",
+  "title": "Đã nói vinahouse",
+  "titleUrl": "https://www.google.com/search?q\u003dvinahouse",
+  "subtitles": [{
+    "name": "Tất nhiên là được, đang phát NONSTOP 2023 MIXTAPE | NHẠC TRẺ REMIX 2023 HAY NHẤT HIỆN NAY | NONSTOP 2023 VINAHOUSE BASS CỰC MẠNH trên YouTube…"
+  }],
+  "time": "2023-03-24T17:06:07.573Z",
+  "audioFiles": ["2023-03-24_17_06_10_130_UTC.mp3"],
+  "products": ["Trợ lý"],
+  "activityControls": ["Hoạt động trên web và ứng dụng", "Bản ghi âm giọng nói và âm thanh của Hoạt động trên web và ứng dụng"]
+},{
+  "header": "Trợ lý",
+  "title": "Đã nói YouTube",
+  "titleUrl": "https://www.google.com/search?q\u003dYouTube",
+  "time": "2023-03-24T17:05:43.504Z",
+  "audioFiles": ["2023-03-24_17_05_45_344_UTC.mp3"],
+  "products": ["Trợ lý"],
+  "activityControls": ["Hoạt động trên web và ứng dụng", "Bản ghi âm giọng nói và âm thanh của Hoạt động trên web và ứng dụng"]
+},{
+  "header": "Trợ lý",
+  "title": "Bạn đã xem 1 thẻ",
+  "time": "2023-03-24T17:05:43.260Z",
+  "products": ["Trợ lý"],
+  "details": [{
+    "name": "Trợ lý chủ động"
+  }],
+  "activityControls": ["Hoạt động trên web và ứng dụng"]
+},{
+  "header": "Trợ lý",
+  "title": "Đã nói kể chuyện cho nghe đi",
+  "titleUrl": "https://www.google.com/search?q\u003dk%E1%BB%83+chuy%E1%BB%87n+cho+nghe+%C4%91i",
+  "subtitles": [{
+    "name": "Ngày xửa ngày xưa, có một cậu Trợ lý Google nọ…"
+  }, {
+    "name": "Rồi sau đó…"
+  }, {
+    "name": "Cậu ta bị treo máy."
+  }],
+  "time": "2023-03-23T15:53:58.919Z",
+  "products": ["Trợ lý"],
+  "activityControls": ["Hoạt động trên web và ứng dụng"]
+},{
+  "header": "Trợ lý",
+  "title": "Đã nói Sao không nói chuyện",
+  "titleUrl": "https://www.google.com/search?q\u003dSao+kh%C3%B4ng+n%C3%B3i+chuy%E1%BB%87n",
+  "subtitles": [{
+    "name": "Xin lỗi, tôi không nghe thấy điều bạn nói trước đó. Bạn có thể hỏi lại không?"
+  }],
+  "time": "2023-03-23T15:53:48.366Z",
+  "products": ["Trợ lý"],
+  "activityControls": ["Hoạt động trên web và ứng dụng"]
+},{
+  "header": "Trợ lý",
+  "title": "Đã nói Hello",
+  "titleUrl": "https://www.google.com/search?q\u003dHello",
+  "time": "2023-03-23T15:53:36.425Z",
+  "products": ["Trợ lý"],
+  "activityControls": ["Hoạt động trên web và ứng dụng"]
+},{
+  "header": "Trợ lý",
+  "title": "Đã nói Alo Google",
+  "titleUrl": "https://www.google.com/search?q\u003dAlo+Google",
+  "subtitles": [{
+    "name": "Sau đây là kết quả tìm kiếm hàng đầu"
+  }],
+  "time": "2023-03-23T15:50:37.027Z",
+  "products": ["Trợ lý"],
+  "activityControls": ["Hoạt động trên web và ứng dụng"]
+},{
+  "header": "Trợ lý",
+  "title": "Đã nói liên kết Smart TV với iPhone",
+  "titleUrl": "https://www.google.com/search?q\u003dli%C3%AAn+k%E1%BA%BFt+Smart+TV+v%E1%BB%9Bi+iPhone",
+  "subtitles": [{
+    "name": "5 cách kết nối iPhone với các hãng tivi chi tiết mà bạn cần phải biết",
+    "url": "https://www.dienmayxanh.com/kinh-nghiem-hay/amp/3-cach-ket-noi-iphone-voi-tivi-615700"
+  }, {
+    "name": "Đây là thông tin từ Điện máy XANH."
+  }],
+  "time": "2023-03-23T15:04:19.108Z",
+  "products": ["Trợ lý"],
+  "activityControls": ["Hoạt động trên web và ứng dụng"]
+},{
+  "header": "Trợ lý",
+  "title": "Đã nói Smart TV",
+  "titleUrl": "https://www.google.com/search?q\u003dSmart+TV",
+  "subtitles": [{
+    "name": "Sau đây là kết quả tôi tìm thấy trên web"
+  }],
+  "time": "2023-03-23T15:04:08.388Z",
+  "products": ["Trợ lý"],
+  "activityControls": ["Hoạt động trên web và ứng dụng"]
+},{
+  "header": "Trợ lý",
+  "title": "Đã nói TV",
+  "titleUrl": "https://www.google.com/search?q\u003dTV",
+  "time": "2023-03-23T15:03:54.363Z",
+  "products": ["Trợ lý"],
+  "activityControls": ["Hoạt động trên web và ứng dụng"]
+},{
+  "header": "Trợ lý",
+  "title": "Đã nói Cách đặt lại mạng Wi-Fi",
+  "titleUrl": "https://www.google.com/search?q\u003dC%C3%A1ch+%C4%91%E1%BA%B7t+l%E1%BA%A1i+m%E1%BA%A1ng+Wi-Fi",
+  "subtitles": [{
+    "name": "Để tìm hiểu cách đặt lại mạng Wi-Fi, hãy liên hệ với nhà sản xuất bộ định tuyến và modem của bạn."
+  }],
+  "time": "2023-03-23T15:01:19.129Z",
+  "products": ["Trợ lý"],
+  "activityControls": ["Hoạt động trên web và ứng dụng"]
+},{
+  "header": "Trợ lý",
+  "title": "Đã nói Kết nối điện thoại với tivi không dây",
+  "titleUrl": "https://www.google.com/search?q\u003dK%E1%BA%BFt+n%E1%BB%91i+%C4%91i%E1%BB%87n+tho%E1%BA%A1i+v%E1%BB%9Bi+tivi+kh%C3%B4ng+d%C3%A2y",
+  "subtitles": [{
+    "name": "Để thay đổi mạng Wi-Fi, hãy mở ứng dụng Google Home, nhấn vào Chromecast, sau đó nhấn vào biểu tượng Cài đặt rồi nhấn vào mục \"Thông tin thiết bị\"."
+  }, {
+    "name": "Tiếp theo, hãy nhấn vào \"Wi-Fi\", sau đó nhấn vào \"Xóa mạng\" rồi thiết lập Chromecast trên mạng mới."
+  }, {
+    "name": "Đối với Chromecast có Google TV, hãy nói \"Thay đổi Wi-Fi trên Google TV\"."
+  }],
+  "time": "2023-03-23T15:00:50.972Z",
+  "products": ["Trợ lý"],
+  "activityControls": ["Hoạt động trên web và ứng dụng"]
+},{
+  "header": "Trợ lý",
+  "title": "Đã nói làm thế nào phát điện thoại qua tivi",
+  "titleUrl": "https://www.google.com/search?q\u003dl%C3%A0m+th%E1%BA%BF+n%C3%A0o+ph%C3%A1t+%C4%91i%E1%BB%87n+tho%E1%BA%A1i+qua+tivi",
+  "subtitles": [{
+    "name": "5 Cách chiếu màn hình điện thoại lên tivi dễ dàng - CellphoneS",
+    "url": "https://cellphones.com.vn/sforum/cach-chieu-man-hinh-dien-thoai-len-tivi/amp"
+  }, {
+    "name": "Theo CellphoneS: Bước 1: Thực hiện gắn dây cáp vào cổng sạc trên chiếc iPhone. Bước 2: Tiếp theo bạn hãy cắm đầu cáp còn lại vào cổng của tivi. Sau đó sử dụng Remote và nhấn vào nút nguồn rồi chọn HDMI/VGA/AV. Vậy là bạn có thể xem được nội từ điện thoại chiếu lên màn hình tivi."
+  }],
+  "time": "2023-03-23T15:00:29.738Z",
+  "products": ["Trợ lý"],
+  "activityControls": ["Hoạt động trên web và ứng dụng"]
+},{
+  "header": "Trợ lý",
+  "title": "Đã nói Làm cách nào để phát triển ngành",
+  "titleUrl": "https://www.google.com/search?q\u003dL%C3%A0m+c%C3%A1ch+n%C3%A0o+%C4%91%E1%BB%83+ph%C3%A1t+tri%E1%BB%83n+ng%C3%A0nh",
+  "subtitles": [{
+    "name": "Sau đây là kết quả tôi tìm thấy"
+  }],
+  "time": "2023-03-23T15:00:14.886Z",
+  "products": ["Trợ lý"],
+  "activityControls": ["Hoạt động trên web và ứng dụng"]
+},{
+  "header": "Trợ lý",
+  "title": "Đã nói Ok Google",
+  "titleUrl": "https://www.google.com/search?q\u003dOk+Google",
+  "subtitles": [{
+    "name": "Xin chào"
+  }, {
+    "name": "Tôi có thể giúp gì cho bạn?"
+  }],
+  "time": "2023-03-23T15:00:03.485Z",
+  "products": ["Trợ lý"],
+  "activityControls": ["Hoạt động trên web và ứng dụng"]
+},{
+  "header": "Trợ lý",
+  "title": "Đã nói Alo Google",
+  "titleUrl": "https://www.google.com/search?q\u003dAlo+Google",
+  "subtitles": [{
+    "name": "Sau đây là kết quả tôi tìm thấy trên web"
+  }],
+  "time": "2023-03-23T14:59:44.777Z",
+  "products": ["Trợ lý"],
+  "activityControls": ["Hoạt động trên web và ứng dụng"]
+}]
